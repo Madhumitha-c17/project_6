@@ -94,12 +94,12 @@ Setting up the Streamlit app:
 
 Clone the repository to your local machine.
 Install required libraries using:
-`print(pip install -r requirements.txt)`
+`pip install -r requirements.txt`
 Running the App:
 
 Start the Streamlit application using the following command:
 
-`print(streamlit run app.py)`
+`streamlit run app.py`
 Login Authentication:
 
 Use the provided login interface to authenticate yourself.
